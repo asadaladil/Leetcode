@@ -1,0 +1,1 @@
+{"name":"Local: Longest Substring Without Repeating Characters","url":"e:\\Leetcode\\Longest Substring Without Repeating Characters.py","tests":[{"id":1720157066555,"input":"abcabcbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Leetcode\\Longest Substring Without Repeating Characters.py","group":"local","local":true}
