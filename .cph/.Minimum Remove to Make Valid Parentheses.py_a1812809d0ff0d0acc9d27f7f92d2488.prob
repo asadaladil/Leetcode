@@ -1,0 +1,1 @@
+{"name":"Local: Minimum Remove to Make Valid Parentheses","url":"e:\\Leetcode\\Minimum Remove to Make Valid Parentheses.py","tests":[{"id":1720365877545,"input":"(ab(cd)e)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Leetcode\\Minimum Remove to Make Valid Parentheses.py","group":"local","local":true}
